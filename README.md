@@ -1,0 +1,1 @@
+A simple coffee machine made using object oriented programming. It takes the input of the drink selection, asks how much money you are inserting, can prompt you whether the money was enough and if it was it gives back the change and deducts the ingredients from the machine
